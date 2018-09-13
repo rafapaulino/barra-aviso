@@ -1,0 +1,25 @@
+{
+  "name": "barra-aviso",
+  "homepage": "https://github.com/rafapaulino/paginacao",
+  "description": "Barra de aviso com o Bootstrap 4",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "navbar",
+    "alert navbar"
+  ],
+  "authors": [
+    "Rafael Paulino"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#4.7.0",
+    "jquery": "^3.3.1"
+  }
+}
